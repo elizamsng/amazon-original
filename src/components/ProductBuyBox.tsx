@@ -41,7 +41,7 @@ export const ProductBuyBox: React.FC<ProductBuyBoxProps> = ({
   return (
     <aside
       aria-label="Purchase options"
-      className="rounded-lg border border-[#D5D9D9] bg-white p-5 lg:sticky lg:top-[108px] space-y-3.5"
+      className="rounded-lg border border-[#D5D9D9] bg-white p-5 space-y-3.5"
     >
       {/* Price */}
       <div>
